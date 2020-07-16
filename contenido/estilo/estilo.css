@@ -1,0 +1,79 @@
+@font-face{
+	font-family: blackford;
+	src: url(blackford.ttf);
+}
+html{
+	font-family: blackford;
+}
+h1{
+	font-size: 350%;
+}
+#menu ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+#menu ul li{
+	display: inline-block;
+}
+#menu ul li a{
+	color: white;
+	display:block;
+	padding:8px 180px;
+	text-decoration: none;
+}
+#menu{
+	background-color:black;
+}
+#menu ul li a:hover{
+	background-color:white;
+	color: black;
+}
+footer{
+	padding-top: 150px;
+}
+
+#menum ul{
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+#menum ul li{
+	display: inline-block;
+}
+#menum ul li a{
+	color: white;
+	display:block;
+	padding:8px 172px;
+	text-decoration: none;
+}
+#menum{
+	background-color:black;
+}
+#menum ul li a:hover{
+	background-color:white;
+	color: black;
+}
+#l1{
+	list-style: none;
+}
+table{
+	width: 100%;
+	text-align: left;
+}
+td{
+	padding: 10px;
+}
+#cabeza{
+	background-color: black;
+	color: white;
+	font-size: 150%;
+}
+b{
+	font-size: 125%;
+}
+tr:hover{
+	background-color: black;
+	color: white;
+}
+
